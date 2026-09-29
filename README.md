@@ -242,7 +242,7 @@ Cards informativos com ações de gerenciamento
 
 ---
 
-## 📈 Próximas Melhorias
+## 📈 Possíveis Melhorias no Futuro:
 
 Ideias para evolução do projeto:
 
@@ -259,7 +259,7 @@ Ideias para evolução do projeto:
 
 ---
 
-## 🤝 Contribuindo
+## 🤝 
 
 Contribuições são bem-vindas! Para contribuir:
 
@@ -279,8 +279,6 @@ Contribuições são bem-vindas! Para contribuir:
 - Projeto: [Sistema de Chamados TI](https://github.com/Vitoroalves/sistemas-chamados-ti)
 
 ---
-
-## 🙏 Agradecimentos
 
 Projeto desenvolvido como parte do aprendizado de desenvolvimento Full Stack, combinando:
 - Backend com Python/Flask
